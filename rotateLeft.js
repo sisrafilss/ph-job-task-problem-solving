@@ -1,6 +1,6 @@
 // Test Data
-const array = [1, 2]; 
-const rotation = 1;
+const array = [1, 2, 3, 4, 5]; 
+const rotation = 2;
 
 // Testing ->
 console.log(`Before Rotation the Array is:`, array);
